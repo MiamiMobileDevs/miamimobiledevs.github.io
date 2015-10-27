@@ -8,9 +8,9 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }} President</li>
-	  <li><a href="mailto:{{ site.president_email }}">{{ site.president_email }}</a></li>
+	  <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li>{{ site.title }} Vice President</li>
-	  <li><a href="mailto:{{ site.vice_president_email }}">{{ site.vice_president_email }}</a></li>
+	  <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
