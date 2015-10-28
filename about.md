@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Miami Mobile Devs (MMD) is a community of self-motivated developers working on iOS and Android platforms. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+### Expectations
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This community is focused on creating mobile platform applications. We come together weekly to develop our apps. The end goal is to learn to produce applications for mobile systems that you can show off in your portfolio.
+
+### Good Habits
+
+- Commit Often
+- Ask Questions
